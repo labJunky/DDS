@@ -1,0 +1,141 @@
+﻿2010-03-31 17:34:32,396 [9] INFO  DDSControl.Program - Starting DDS Control GUI
+2010-03-31 17:49:33,480 [11] INFO  DDSControl.Program - Starting DDS Control GUI
+2010-03-31 17:49:36,792 [11] INFO  DDSControl.AD9958 - Performing full reset
+2010-03-31 17:49:56,792 [10] INFO  DDSControl.Program - Starting DDS Control GUI
+2010-03-31 17:49:58,371 [10] INFO  DDSControl.AD9958 - Performing full reset
+2010-03-31 17:51:29,465 [10] INFO  DDSControl.Program - Starting DDS Control GUI
+2010-03-31 17:51:31,449 [10] INFO  DDSControl.AD9958 - Performing full reset
+2010-03-31 17:51:59,153 [10] INFO  DDSControl.AD9958 - Sending message to EP2: DDSControl.Message
+2010-03-31 17:52:05,075 [10] INFO  DDSControl.AD9958 - Sending message to EP2: DDSControl.Message
+2010-03-31 17:53:26,849 [10] INFO  DDSControl.Program - Starting DDS Control GUI
+2010-03-31 17:53:28,412 [10] INFO  DDSControl.AD9958 - Performing full reset
+2010-03-31 17:53:28,427 [10] INFO  DDSControl.AD9958 - Sending message to EP2: %s
+2010-03-31 17:53:28,427 [10] INFO  DDSControl.AD9958 - Sending message to EP2: %s
+2010-03-31 17:53:54,931 [10] INFO  DDSControl.Program - Starting DDS Control GUI
+2010-03-31 17:53:57,634 [10] INFO  DDSControl.AD9958 - Sending message to EP2: 0x00 0x76
+2010-03-31 17:53:57,634 [10] INFO  DDSControl.AD9958 - Sending message to EP2: 0x04 0x33 0x33 0x33 0x33
+2010-03-31 17:53:57,634 [10] INFO  DDSControl.AD9958 - Sending message to EP2: 0x06 0x00 0x13 0xFF
+2010-03-31 17:54:05,401 [10] INFO  DDSControl.AD9958 - Performing full reset
+2010-03-31 17:54:05,401 [10] INFO  DDSControl.AD9958 - Sending message to EP2: 0x00 0xF6 0x03 0x00 0x03 0x00
+2010-03-31 17:54:05,401 [10] INFO  DDSControl.AD9958 - Sending message to EP2: 0x01 0xA8 0x00 0x20
+2010-03-31 17:55:38,068 [10] INFO  DDSControl.Program - Starting DDS Control GUI
+2010-03-31 17:55:40,037 [10] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x00 0x76
+2010-03-31 17:55:40,037 [10] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x04 0x33 0x33 0x33 0x33
+2010-03-31 17:55:40,037 [10] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x06 0x00 0x13 0xFF
+2010-03-31 17:55:52,710 [10] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x00 0x76
+2010-03-31 17:55:52,742 [10] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x04 0x66 0x66 0x66 0x66
+2010-03-31 17:55:52,742 [10] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x06 0x00 0x13 0xFF
+2010-03-31 17:56:21,105 [10] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x01 0xA8 0x00 0x20 0x00 0xF6 0x03 0x00 0x03 0x00 0x00 0x76 0x04 0x33 0x33 0x33 0x33 0x00 0xB6 0x04 0x33 0x33 0x33 0x33 0x05 0x00 0x00
+2010-03-31 18:00:31,949 [10] INFO  DDSControl.Program - Starting DDS Control GUI
+2010-03-31 18:00:35,137 [10] INFO  DDSControl.AD9958 - Setting both channels to 1123e0 with a relative phase of 180
+2010-03-31 18:00:35,153 [10] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x01 0xA8 0x00 0x20 0x00 0xF6 0x03 0x00 0x03 0x00 0x00 0x76 0x04 0x33 0x33 0x33 0x33 0x00 0xB6 0x04 0x33 0x33 0x33 0x33 0x05 0x00 0x00
+2010-03-31 18:03:07,393 [10] INFO  DDSControl.Program - Starting DDS Control GUI
+2010-03-31 18:03:11,112 [10] INFO  DDSControl.AD9958 - Setting both channels to 1.000e8 with a relative phase of 180
+2010-03-31 18:03:11,112 [10] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x01 0xA8 0x00 0x20 0x00 0xF6 0x03 0x00 0x03 0x00 0x00 0x76 0x04 0x33 0x33 0x33 0x33 0x00 0xB6 0x04 0x33 0x33 0x33 0x33 0x05 0x00 0x00
+2010-03-31 18:04:11,426 [10] INFO  DDSControl.Program - Starting DDS Control GUI
+2010-03-31 18:04:12,957 [10] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x00 0x76
+2010-03-31 18:04:12,957 [10] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x04 0x33 0x33 0x33 0x33
+2010-03-31 18:04:12,972 [10] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x06 0x00 0x13 0xFF
+2010-03-31 18:04:15,348 [10] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x00 0xB6
+2010-03-31 18:04:15,348 [10] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x04 0x33 0x33 0x33 0x33
+2010-03-31 18:04:15,348 [10] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x06 0x00 0x13 0xFF
+2010-03-31 18:04:17,676 [10] INFO  DDSControl.AD9958 - Setting both channels to 1.000e8 with a relative phase of 180
+2010-03-31 18:04:17,676 [10] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x01 0xA8 0x00 0x20 0x00 0xF6 0x03 0x00 0x03 0x00 0x00 0x76 0x04 0x33 0x33 0x33 0x33 0x00 0xB6 0x04 0x33 0x33 0x33 0x33 0x05 0x00 0x00
+2010-04-01 09:56:27,995 [11] INFO  DDSControl.Program - Starting DDS Control GUI
+2010-04-01 09:56:30,120 [11] INFO  DDSControl.AD9958 - Selecting channel 0 to write to
+2010-04-01 09:56:30,136 [11] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x00 0x76
+2010-04-01 09:56:30,136 [11] INFO  DDSControl.AD9958 - Setting frequency of current channel to 100000000
+2010-04-01 09:56:30,136 [11] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x04 0x33 0x33 0x33 0x33
+2010-04-01 09:56:30,136 [11] INFO  DDSControl.AD9958 - Setting amplitude scale factor for current channel to 1023
+2010-04-01 09:56:30,136 [11] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x06 0x00 0x13 0xFF
+2010-04-01 09:57:07,234 [11] INFO  DDSControl.AD9958 - Performing full reset
+2010-04-01 09:57:07,234 [11] INFO  DDSControl.AD9958 - Selecting mode singletone
+2010-04-01 09:57:07,234 [11] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x00 0xF6 0x03 0x00 0x03 0x00
+2010-04-01 09:57:07,234 [11] INFO  DDSControl.AD9958 - Setting levels to 2
+2010-04-01 09:57:07,234 [11] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x01 0xA8 0x00 0x20
+2010-04-01 09:57:29,549 [11] INFO  DDSControl.AD9958 - Selecting channel 1 to write to
+2010-04-01 09:57:29,549 [11] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x00 0xB6
+2010-04-01 09:57:29,549 [11] INFO  DDSControl.AD9958 - Setting frequency of current channel to 100000000
+2010-04-01 09:57:29,549 [11] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x04 0x33 0x33 0x33 0x33
+2010-04-01 09:57:29,549 [11] INFO  DDSControl.AD9958 - Setting amplitude scale factor for current channel to 1023
+2010-04-01 09:57:29,549 [11] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x06 0x00 0x13 0xFF
+2010-04-01 09:58:02,347 [10] INFO  DDSControl.Program - Starting DDS Control GUI
+2010-04-01 09:58:06,238 [10] INFO  DDSControl.AD9958 - Selecting channel 0 to write to
+2010-04-01 09:58:06,238 [10] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x00 0x76
+2010-04-01 09:58:06,238 [10] INFO  DDSControl.AD9958 - Setting frequency of current channel to 100000000.000e6
+2010-04-01 09:58:06,238 [10] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x04 0x33 0x33 0x33 0x33
+2010-04-01 09:58:06,238 [10] INFO  DDSControl.AD9958 - Setting amplitude scale factor for current channel to 1023
+2010-04-01 09:58:06,238 [10] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x06 0x00 0x13 0xFF
+2010-04-01 09:58:23,598 [10] INFO  DDSControl.AD9958 - Selecting channel 1 to write to
+2010-04-01 09:58:23,598 [10] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x00 0xB6
+2010-04-01 09:58:23,598 [10] INFO  DDSControl.AD9958 - Setting frequency of current channel to 100000000.000e6
+2010-04-01 09:58:23,598 [10] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x04 0x33 0x33 0x33 0x33
+2010-04-01 09:58:23,598 [10] INFO  DDSControl.AD9958 - Setting amplitude scale factor for current channel to 1023
+2010-04-01 09:58:23,598 [10] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x06 0x00 0x13 0xFF
+2010-04-01 09:58:39,005 [10] INFO  DDSControl.Program - Starting DDS Control GUI
+2010-04-01 09:58:41,287 [10] INFO  DDSControl.AD9958 - Selecting channel 0 to write to
+2010-04-01 09:58:41,302 [10] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x00 0x76
+2010-04-01 09:58:41,302 [10] INFO  DDSControl.AD9958 - Setting frequency of current channel to 1.000e8
+2010-04-01 09:58:41,302 [10] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x04 0x33 0x33 0x33 0x33
+2010-04-01 09:58:41,302 [10] INFO  DDSControl.AD9958 - Setting amplitude scale factor for current channel to 1023
+2010-04-01 09:58:41,302 [10] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x06 0x00 0x13 0xFF
+2010-04-01 09:58:46,381 [10] INFO  DDSControl.AD9958 - Selecting channel 1 to write to
+2010-04-01 09:58:46,381 [10] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x00 0xB6
+2010-04-01 09:58:46,381 [10] INFO  DDSControl.AD9958 - Setting frequency of current channel to 1.000e8
+2010-04-01 09:58:46,381 [10] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x04 0x33 0x33 0x33 0x33
+2010-04-01 09:58:46,381 [10] INFO  DDSControl.AD9958 - Setting amplitude scale factor for current channel to 1023
+2010-04-01 09:58:46,381 [10] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x06 0x00 0x13 0xFF
+2010-04-01 09:58:48,787 [10] INFO  DDSControl.AD9958 - Setting both channels to 1.000e8 with a relative phase of 180
+2010-04-01 09:58:48,787 [10] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x01 0xA8 0x00 0x20 0x00 0xF6 0x03 0x00 0x03 0x00 0x00 0x76 0x04 0x33 0x33 0x33 0x33 0x00 0xB6 0x04 0x33 0x33 0x33 0x33 0x05 0x00 0x00
+2010-04-01 10:08:11,773 [9] INFO  DDSControl.Program - Starting DDS Control GUI
+2010-04-01 10:08:13,507 [9] INFO  DDSControl.AD9958 - Performing full reset
+2010-04-01 10:08:13,507 [9] DEBUG DDSControl.AD9958 - Sending message to End Point 1:
+2010-04-01 10:08:13,523 [9] INFO  DDSControl.AD9958 - Selecting mode singletone
+2010-04-01 10:08:13,523 [9] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x00 0xF6 0x03 0x00 0x03 0x00
+2010-04-01 10:08:13,523 [9] INFO  DDSControl.AD9958 - Setting levels to 2
+2010-04-01 10:08:13,523 [9] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x01 0xA8 0x00 0x20
+2010-04-01 10:08:19,632 [9] INFO  DDSControl.AD9958 - Selecting channel 0 to write to
+2010-04-01 10:08:19,632 [9] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x00 0x76
+2010-04-01 10:08:19,632 [9] INFO  DDSControl.AD9958 - Setting frequency of current channel to 1.000e8
+2010-04-01 10:08:19,632 [9] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x04 0x33 0x33 0x33 0x33
+2010-04-01 10:08:19,632 [9] INFO  DDSControl.AD9958 - Setting amplitude scale factor for current channel to 1023
+2010-04-01 10:08:19,632 [9] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x06 0x00 0x13 0xFF
+2010-04-01 10:08:30,273 [9] INFO  DDSControl.AD9958 - Selecting channel 0 to write to
+2010-04-01 10:08:30,273 [9] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x00 0x76
+2010-04-01 10:08:30,273 [9] INFO  DDSControl.AD9958 - Setting frequency of current channel to 1.000e8
+2010-04-01 10:08:30,273 [9] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x04 0x33 0x33 0x33 0x33
+2010-04-01 10:08:30,273 [9] INFO  DDSControl.AD9958 - Setting amplitude scale factor for current channel to 1023
+2010-04-01 10:08:30,273 [9] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x06 0x00 0x13 0xFF
+2010-04-01 10:08:33,898 [9] INFO  DDSControl.AD9958 - Performing full reset
+2010-04-01 10:08:33,898 [9] DEBUG DDSControl.AD9958 - Sending message to End Point 1:
+2010-04-01 10:08:33,898 [9] INFO  DDSControl.AD9958 - Selecting mode singletone
+2010-04-01 10:08:33,898 [9] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x00 0xF6 0x03 0x00 0x03 0x00
+2010-04-01 10:08:33,898 [9] INFO  DDSControl.AD9958 - Setting levels to 2
+2010-04-01 10:08:33,898 [9] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x01 0xA8 0x00 0x20
+2010-04-01 10:10:06,431 [10] INFO  DDSControl.Program - Starting DDS Control GUI
+2010-04-01 10:10:08,024 [10] INFO  DDSControl.AD9958 - Performing full reset
+2010-04-01 10:10:08,024 [10] DEBUG DDSControl.AD9958 - Sending message to EP1: 0x03 0x08 0x0B
+2010-04-01 10:10:08,040 [10] INFO  DDSControl.AD9958 - Selecting mode singletone
+2010-04-01 10:10:08,040 [10] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x00 0xF6 0x03 0x00 0x03 0x00
+2010-04-01 10:10:08,040 [10] INFO  DDSControl.AD9958 - Setting levels to 2
+2010-04-01 10:10:08,040 [10] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x01 0xA8 0x00 0x20
+2010-04-01 10:10:24,025 [10] INFO  DDSControl.AD9958 - Selecting channel 0 to write to
+2010-04-01 10:10:24,025 [10] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x00 0x76
+2010-04-01 10:10:24,025 [10] INFO  DDSControl.AD9958 - Setting frequency of current channel to 1.000e8
+2010-04-01 10:10:24,025 [10] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x04 0x33 0x33 0x33 0x33
+2010-04-01 10:10:24,025 [10] INFO  DDSControl.AD9958 - Setting amplitude scale factor for current channel to 1023
+2010-04-01 10:10:24,025 [10] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x06 0x00 0x13 0xFF
+2010-04-01 10:10:31,384 [10] INFO  DDSControl.AD9958 - Setting both channels to 1.000e8 with a relative phase of 180
+2010-04-01 10:10:31,384 [10] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x01 0xA8 0x00 0x20 0x00 0xF6 0x03 0x00 0x03 0x00 0x00 0x76 0x04 0x33 0x33 0x33 0x33 0x00 0xB6 0x04 0x33 0x33 0x33 0x33 0x05 0x00 0x00
+2010-04-01 10:29:32,035 [11] INFO  DDSControl.Program - Starting DDS Control GUI
+2010-04-01 10:29:34,847 [11] INFO  DDSControl.AD9958 - Setting both channels to 1.000e8 with a relative phase of 180
+2010-04-01 10:29:34,863 [11] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x01 0xA8 0x00 0x20 0x00 0xF6 0x03 0x00 0x03 0x00 0x00 0x76 0x04 0x33 0x33 0x33 0x33 0x00 0xB6 0x04 0x33 0x33 0x33 0x33 0x05 0x00 0x00
+2010-04-01 10:29:42,050 [11] INFO  DDSControl.AD9958 - Setting both channels to 1.000e8 with a relative phase of 0
+2010-04-01 10:29:42,050 [11] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x01 0xA8 0x00 0x20 0x00 0xF6 0x03 0x00 0x03 0x00 0x00 0x76 0x04 0x33 0x33 0x33 0x33 0x00 0xB6 0x04 0x33 0x33 0x33 0x33 0x05 0x20 0x00
+2010-04-01 10:29:51,816 [11] INFO  DDSControl.AD9958 - Setting both channels to 1.000e8 with a relative phase of 180
+2010-04-01 10:29:51,816 [11] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x01 0xA8 0x00 0x20 0x00 0xF6 0x03 0x00 0x03 0x00 0x00 0x76 0x04 0x33 0x33 0x33 0x33 0x00 0xB6 0x04 0x33 0x33 0x33 0x33 0x05 0x00 0x00
+2010-04-01 10:30:21,660 [10] INFO  DDSControl.Program - Starting DDS Control GUI
+2010-04-01 10:30:24,394 [10] INFO  DDSControl.AD9958 - Setting both channels to 1.000e8 with a relative phase of 180
+2010-04-01 10:30:24,394 [10] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x01 0xA8 0x00 0x20 0x00 0xF6 0x03 0x00 0x03 0x00 0x00 0x76 0x04 0x33 0x33 0x33 0x33 0x00 0xB6 0x04 0x33 0x33 0x33 0x33 0x05 0x20 0x00
+2010-04-01 10:30:28,191 [10] INFO  DDSControl.AD9958 - Setting both channels to 1.000e8 with a relative phase of 0
+2010-04-01 10:30:28,191 [10] DEBUG DDSControl.AD9958 - Sending message to EP2: 0x01 0xA8 0x00 0x20 0x00 0xF6 0x03 0x00 0x03 0x00 0x00 0x76 0x04 0x33 0x33 0x33 0x33 0x00 0xB6 0x04 0x33 0x33 0x33 0x33 0x05 0x00 0x00

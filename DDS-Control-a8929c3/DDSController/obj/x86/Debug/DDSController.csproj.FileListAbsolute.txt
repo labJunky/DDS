@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Crete\DDS\DDS-Control-a8929c3\DDSController\obj\x86\Debug\DDSController.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Crete\DDS\DDS-Control-a8929c3\DDSController\bin\Debug\log4net.config
+C:\Users\Administrator\Desktop\Crete\DDS\DDS-Control-a8929c3\DDSController\bin\Debug\DDSController.exe.config
+C:\Users\Administrator\Desktop\Crete\DDS\DDS-Control-a8929c3\DDSController\bin\Debug\DDSController.exe
+C:\Users\Administrator\Desktop\Crete\DDS\DDS-Control-a8929c3\DDSController\bin\Debug\DDSController.pdb
+C:\Users\Administrator\Desktop\Crete\DDS\DDS-Control-a8929c3\DDSController\bin\Debug\CQTAD9958.dll
+C:\Users\Administrator\Desktop\Crete\DDS\DDS-Control-a8929c3\DDSController\bin\Debug\CyUSB.dll
+C:\Users\Administrator\Desktop\Crete\DDS\DDS-Control-a8929c3\DDSController\bin\Debug\NMock2.dll
+C:\Users\Administrator\Desktop\Crete\DDS\DDS-Control-a8929c3\DDSController\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\Crete\DDS\DDS-Control-a8929c3\DDSController\bin\Debug\nunit.framework.dll
+C:\Users\Administrator\Desktop\Crete\DDS\DDS-Control-a8929c3\DDSController\bin\Debug\CQTAD9958.pdb
+C:\Users\Administrator\Desktop\Crete\DDS\DDS-Control-a8929c3\DDSController\bin\Debug\log4net.xml
+C:\Users\Administrator\Desktop\Crete\DDS\DDS-Control-a8929c3\DDSController\obj\x86\Debug\DDSController.exe
+C:\Users\Administrator\Desktop\Crete\DDS\DDS-Control-a8929c3\DDSController\obj\x86\Debug\DDSController.pdb
